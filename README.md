@@ -18,15 +18,12 @@ Ce projet est un exemple d'Analyse en Composantes Principales (ACP) réalisé en
    ```
 
 ## Exécution
-1. Clonez ce dépôt ou téléchargez le fichier source `acp_example.py`.
-2. Dans un terminal, accédez au répertoire où se trouve le fichier `acp_example.py`.
-3. Exécutez le script avec la commande :
-   ```
-   python acp_example.py
-   ```
+1. Clonez ce dépôt ou téléchargez le fichier source `Analyse_pratique.ipynb.ipynb`.
+2. Ouvrez le fichier `Analyse_pratique.ipynb.ipynb` dans Jupyter Notebook.
+3. Exécutez chaque cellule du notebook pour voir les résultats pas à pas.
 
 ## Contenu
-- `acp_example.py`: Le script principal implémentant l'exemple d'ACP.
+- `acp_example.ipynb`: Le notebook Jupyter contenant l'implémentation de l'exemple d'ACP.
 - `README.md`: Le fichier que vous êtes en train de lire, fournissant des informations sur le projet.
 
 ## Licence
